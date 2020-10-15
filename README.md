@@ -1,4 +1,4 @@
-# Rust-Recoil
+[![Run on Repl.it](https://repl.it/badge/github/Skeetboi23/Rust-Recoil)](https://repl.it/github/Skeetboi23/Rust-Recoil)# Rust-Recoil
 Rust Recoil Script maded on C++
 
 # Weapon support:
